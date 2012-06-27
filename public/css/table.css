@@ -1,0 +1,45 @@
+@CHARSET "UTF-8";
+/* Table Styles */
+
+.tableControl {
+	width:100%;
+}
+.tableControl th{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 0.75em;
+	color: #000;
+	background-color:#C7C7C7;
+	padding: 8px;
+	border: solid 1px #fff;
+	text-align:left;
+	width:550px;
+	text-shadow: 1px 1px 1px rgb(255,255,255);
+}
+.tableControl th:hover{
+	background-color:#9F9F9F;
+}
+.tableControl td{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 0.75em;
+	color: #900;
+	background-color: #E5E5E5;
+	padding: 8px;
+	border: solid 1px #fff;
+	
+}
+.tableControl td:hover{
+	background-color: #CDCDCD;
+}
+.tableControl td a, .tableControl th a{
+	color:#0066CC;
+}
+.tableControl caption{
+	color:#0066CC;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 0.85em;
+	padding: 7px;
+	border: 1px solid rgb(102,102,102);
+	border-radius: 5px 5px 0px 0px;
+	background-color: rgb(204,204,204);
+	text-shadow: 1px 1px 1px rgb(255,255,255);
+}

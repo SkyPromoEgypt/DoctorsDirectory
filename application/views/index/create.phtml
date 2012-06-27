@@ -1,0 +1,17 @@
+<?php Poll::makePoll(); ?>
+<form action="" method="post" class="form">
+<h1>Poll Creator</h1>
+<p><?php echo POLL_QUESTION; ?></p>
+<br/>
+<p><b>Example:</b></p>
+<p>{</p>
+<p>"question" : "Do you like this web?",</p>
+<p>"answers" : ["Yes, I like it.", "No, I don't like it.", "No Comment"]</p>
+<p>}</p>
+<br/>
+<table width="100%">
+<tr><td width="200" valign="top" align="left" colspan="2"><label for="qna"><?php echo POLL_QNA_LABEL; ?></label></td></tr>
+<tr><td colspan="2"><textarea name="qna" id="qna"><?php if(isset($_POST['qna'])) echo $_POST['qna']; ?></textarea></td></tr>
+<tr><td width="80" valign="middle" align="left"><input type="submit" name="submit" id="submit" value="Create Poll" class="submit" /></td><td valign="middle" align="left"><?php echo Message::flashMessenger(); ?></td></tr>
+</table>
+</form>

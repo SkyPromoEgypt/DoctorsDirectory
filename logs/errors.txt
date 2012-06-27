@@ -1,0 +1,573 @@
+[22-Jul-2011 19:26:21] PHP Warning:  parse_ini_file(/var/www/poll/application/language/arabicini): failed to open stream: No such file or directory in /var/www/poll/library/DTech/FrontController.php on line 78
+[22-Jul-2011 19:26:21] PHP Warning:  parse_ini_file(): Filename cannot be empty! in /var/www/poll/library/DTech/FrontController.php on line 79
+[22-Jul-2011 19:26:21] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/library/DTech/FrontController.php on line 80
+[22-Jul-2011 19:26:44] PHP Warning:  parse_ini_file(): Filename cannot be empty! in /var/www/poll/library/DTech/FrontController.php on line 79
+[22-Jul-2011 19:26:44] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/library/DTech/FrontController.php on line 80
+[22-Jul-2011 19:27:28] PHP Warning:  parse_ini_file(/var/www/poll/application/language/arabicini): failed to open stream: No such file or directory in /var/www/poll/library/DTech/FrontController.php on line 78
+[22-Jul-2011 19:27:28] PHP Warning:  parse_ini_file(): Filename cannot be empty! in /var/www/poll/library/DTech/FrontController.php on line 79
+[22-Jul-2011 19:27:28] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/library/DTech/FrontController.php on line 80
+[22-Jul-2011 19:29:13] PHP Warning:  parse_ini_file(/var/www/poll/application/language/arabicini): failed to open stream: No such file or directory in /var/www/poll/library/DTech/FrontController.php on line 78
+[22-Jul-2011 19:29:13] PHP Warning:  parse_ini_file(): Filename cannot be empty! in /var/www/poll/library/DTech/FrontController.php on line 79
+[22-Jul-2011 19:29:13] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/library/DTech/FrontController.php on line 80
+[22-Jul-2011 19:29:15] PHP Warning:  parse_ini_file(/var/www/poll/application/language/arabicini): failed to open stream: No such file or directory in /var/www/poll/library/DTech/FrontController.php on line 78
+[22-Jul-2011 19:29:15] PHP Warning:  parse_ini_file(): Filename cannot be empty! in /var/www/poll/library/DTech/FrontController.php on line 79
+[22-Jul-2011 19:29:15] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/library/DTech/FrontController.php on line 80
+[22-Jul-2011 19:29:16] PHP Warning:  parse_ini_file(/var/www/poll/application/language/arabicini): failed to open stream: No such file or directory in /var/www/poll/library/DTech/FrontController.php on line 78
+[22-Jul-2011 19:29:16] PHP Warning:  parse_ini_file(): Filename cannot be empty! in /var/www/poll/library/DTech/FrontController.php on line 79
+[22-Jul-2011 19:29:16] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/library/DTech/FrontController.php on line 80
+[22-Jul-2011 19:29:17] PHP Warning:  parse_ini_file(/var/www/poll/application/language/arabicini): failed to open stream: No such file or directory in /var/www/poll/library/DTech/FrontController.php on line 78
+[22-Jul-2011 19:29:17] PHP Warning:  parse_ini_file(): Filename cannot be empty! in /var/www/poll/library/DTech/FrontController.php on line 79
+[22-Jul-2011 19:29:17] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/library/DTech/FrontController.php on line 80
+[22-Jul-2011 19:29:18] PHP Warning:  parse_ini_file(/var/www/poll/application/language/arabicini): failed to open stream: No such file or directory in /var/www/poll/library/DTech/FrontController.php on line 78
+[22-Jul-2011 19:29:18] PHP Warning:  parse_ini_file(): Filename cannot be empty! in /var/www/poll/library/DTech/FrontController.php on line 79
+[22-Jul-2011 19:29:18] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/library/DTech/FrontController.php on line 80
+[22-Jul-2011 19:29:18] PHP Warning:  parse_ini_file(/var/www/poll/application/language/arabicini): failed to open stream: No such file or directory in /var/www/poll/library/DTech/FrontController.php on line 78
+[22-Jul-2011 19:29:18] PHP Warning:  parse_ini_file(): Filename cannot be empty! in /var/www/poll/library/DTech/FrontController.php on line 79
+[22-Jul-2011 19:29:18] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/library/DTech/FrontController.php on line 80
+[22-Jul-2011 19:29:32] PHP Warning:  parse_ini_file(): Filename cannot be empty! in /var/www/poll/library/DTech/FrontController.php on line 79
+[22-Jul-2011 19:29:32] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/library/DTech/FrontController.php on line 80
+[23-Jul-2011 09:38:01] PHP Warning:  require_once(1.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[23-Jul-2011 09:38:01] PHP Fatal error:  require_once(): Failed opening required '1.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[23-Jul-2011 09:38:22] PHP Warning:  require_once(1.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[23-Jul-2011 09:38:22] PHP Fatal error:  require_once(): Failed opening required '1.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[23-Jul-2011 09:44:47] PHP Warning:  mysql_fetch_array() expects parameter 2 to be long, string given in /var/www/poll/library/DTech/Database.php on line 155
+[23-Jul-2011 09:44:48] PHP Warning:  mysql_fetch_array() expects parameter 2 to be long, string given in /var/www/poll/library/DTech/Database.php on line 155
+[23-Jul-2011 09:44:50] PHP Warning:  mysql_fetch_array() expects parameter 2 to be long, string given in /var/www/poll/library/DTech/Database.php on line 155
+[23-Jul-2011 13:11:22] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'HOSTNAME' (1) in /var/www/poll/library/DTech/Database.php on line 56
+[23-Jul-2011 13:11:22] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /var/www/poll/library/DTech/Database.php on line 85
+[23-Jul-2011 13:11:22] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /var/www/poll/library/DTech/Database.php on line 61
+[23-Jul-2011 13:11:22] PHP Warning:  Database::_confirmQuery(): Couldn't fetch mysqli in /var/www/poll/library/DTech/Database.php on line 143
+[23-Jul-2011 13:11:22] PHP Warning:  Database::affectedRows(): Property access is not allowed yet in /var/www/poll/library/DTech/Database.php on line 173
+[23-Jul-2011 13:11:22] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:11:22] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:11:22] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /var/www/poll/library/DTech/Database.php on line 126
+[23-Jul-2011 13:11:22] PHP Warning:  Database::_confirmQuery(): Couldn't fetch mysqli in /var/www/poll/library/DTech/Database.php on line 143
+[23-Jul-2011 13:11:22] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'HOSTNAME' (1) in /var/www/poll/library/DTech/Database.php on line 56
+[23-Jul-2011 13:11:22] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /var/www/poll/library/DTech/Database.php on line 85
+[23-Jul-2011 13:11:22] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /var/www/poll/library/DTech/Database.php on line 61
+[23-Jul-2011 13:11:22] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /var/www/poll/library/DTech/Database.php on line 126
+[23-Jul-2011 13:11:22] PHP Warning:  Database::_confirmQuery(): Couldn't fetch mysqli in /var/www/poll/library/DTech/Database.php on line 143
+[23-Jul-2011 13:11:22] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /var/www/poll/library/DTech/Database.php on line 195
+[23-Jul-2011 13:11:22] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:11:22] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:11:22] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /var/www/poll/library/DTech/Database.php on line 126
+[23-Jul-2011 13:11:22] PHP Warning:  Database::_confirmQuery(): Couldn't fetch mysqli in /var/www/poll/library/DTech/Database.php on line 143
+[23-Jul-2011 13:11:22] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:11:22] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:11:22] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:11:22] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:11:22] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:11:22] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:11:22] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /var/www/poll/library/DTech/Database.php on line 126
+[23-Jul-2011 13:11:22] PHP Warning:  Database::_confirmQuery(): Couldn't fetch mysqli in /var/www/poll/library/DTech/Database.php on line 143
+[23-Jul-2011 13:11:22] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'HOSTNAME' (1) in /var/www/poll/library/DTech/Database.php on line 56
+[23-Jul-2011 13:11:22] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /var/www/poll/library/DTech/Database.php on line 85
+[23-Jul-2011 13:11:22] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /var/www/poll/library/DTech/Database.php on line 61
+[23-Jul-2011 13:11:22] PHP Warning:  Database::_confirmQuery(): Couldn't fetch mysqli in /var/www/poll/library/DTech/Database.php on line 143
+[23-Jul-2011 13:11:22] PHP Warning:  Database::affectedRows(): Property access is not allowed yet in /var/www/poll/library/DTech/Database.php on line 173
+[23-Jul-2011 13:11:22] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:11:22] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:11:22] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /var/www/poll/library/DTech/Database.php on line 126
+[23-Jul-2011 13:11:22] PHP Warning:  Database::_confirmQuery(): Couldn't fetch mysqli in /var/www/poll/library/DTech/Database.php on line 143
+[23-Jul-2011 13:11:22] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /var/www/poll/library/DTech/Database.php on line 75
+[23-Jul-2011 13:11:22] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:11:22] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:11:22] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/Database.php on line 126
+[23-Jul-2011 13:11:22] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'HOSTNAME' (1) in /var/www/poll/library/DTech/Database.php on line 56
+[23-Jul-2011 13:11:22] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /var/www/poll/library/DTech/Database.php on line 85
+[23-Jul-2011 13:11:22] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /var/www/poll/library/DTech/Database.php on line 61
+[23-Jul-2011 13:11:22] PHP Warning:  Database::_confirmQuery(): Couldn't fetch mysqli in /var/www/poll/library/DTech/Database.php on line 143
+[23-Jul-2011 13:11:22] PHP Warning:  Database::affectedRows(): Property access is not allowed yet in /var/www/poll/library/DTech/Database.php on line 173
+[23-Jul-2011 13:11:22] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:11:22] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:11:22] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /var/www/poll/library/DTech/Database.php on line 126
+[23-Jul-2011 13:11:22] PHP Warning:  Database::_confirmQuery(): Couldn't fetch mysqli in /var/www/poll/library/DTech/Database.php on line 143
+[23-Jul-2011 13:11:22] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /var/www/poll/library/DTech/Database.php on line 75
+[23-Jul-2011 13:11:22] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:11:22] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:11:22] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/Database.php on line 126
+[23-Jul-2011 13:12:35] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:35] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:35] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:35] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:35] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/Database.php on line 126
+[23-Jul-2011 13:12:35] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:35] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:35] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:35] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:35] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/Database.php on line 126
+[23-Jul-2011 13:12:42] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:42] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:42] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:42] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:42] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/Database.php on line 126
+[23-Jul-2011 13:12:43] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:43] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:43] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:43] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:43] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/Database.php on line 126
+[23-Jul-2011 13:12:44] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:44] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:44] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:44] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:44] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/Database.php on line 126
+[23-Jul-2011 13:12:54] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:54] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:54] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:54] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:54] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:54] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:54] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:54] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:54] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:54] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:54] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:54] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:54] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:54] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:54] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:54] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:54] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:54] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:54] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:12:54] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:13:47] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:13:47] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:13:47] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:13:47] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:13:47] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:13:47] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:13:47] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:13:47] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:13:47] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:13:47] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:13:48] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:13:48] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:13:48] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:13:48] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:13:48] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:13:48] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:13:48] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:13:48] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:13:48] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:13:48] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:14:11] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:14:11] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:14:11] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:14:11] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:14:11] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:14:11] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:14:11] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:14:11] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:14:11] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:14:11] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:14:12] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:14:12] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:14:12] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:14:12] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:14:12] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:14:12] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:14:12] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:14:12] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:14:12] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:14:12] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:14:13] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:14:13] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:14:13] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:14:13] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:14:13] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:14:13] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:14:13] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:14:13] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:14:13] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 13:14:13] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 114
+[23-Jul-2011 21:57:30] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 120
+[23-Jul-2011 21:57:32] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 120
+[23-Jul-2011 21:57:32] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 120
+[23-Jul-2011 21:57:32] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 120
+[23-Jul-2011 21:57:32] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 120
+[23-Jul-2011 22:00:48] PHP Warning:  mysqli_escape_string() expects exactly 2 parameters, 1 given in /var/www/poll/library/DTech/Database.php on line 120
+[23-Jul-2011 22:00:49] PHP Warning:  mysqli_escape_string() expects exactly 2 parameters, 1 given in /var/www/poll/library/DTech/Database.php on line 120
+[23-Jul-2011 22:01:10] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /var/www/poll/library/DTech/Database.php on line 120
+[23-Jul-2011 22:01:10] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /var/www/poll/library/DTech/Database.php on line 120
+[23-Jul-2011 22:02:29] PHP Fatal error:  Non-static method mysqli::real_escape_string() cannot be called statically, assuming $this from incompatible context in /var/www/poll/library/DTech/Database.php on line 120
+[23-Jul-2011 22:02:29] PHP Fatal error:  Non-static method mysqli::real_escape_string() cannot be called statically, assuming $this from incompatible context in /var/www/poll/library/DTech/Database.php on line 120
+[23-Jul-2011 22:02:53] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 120
+[23-Jul-2011 22:02:53] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 120
+[23-Jul-2011 22:03:13] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 120
+[23-Jul-2011 22:03:13] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 120
+[23-Jul-2011 22:11:16] PHP Warning:  parse_ini_file(/var/www/poll/application/language/.ini): failed to open stream: No such file or directory in /var/www/poll/library/DTech/FrontController.php on line 78
+[23-Jul-2011 22:11:16] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/library/DTech/FrontController.php on line 79
+[23-Jul-2011 22:11:41] PHP Warning:  parse_ini_file(/var/www/poll/application/language/.ini): failed to open stream: No such file or directory in /var/www/poll/library/DTech/FrontController.php on line 78
+[23-Jul-2011 22:11:41] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/library/DTech/FrontController.php on line 79
+[23-Jul-2011 22:11:41] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:14:02] PHP Warning:  parse_ini_file(/var/www/poll/application/language/.ini): failed to open stream: No such file or directory in /var/www/poll/library/DTech/FrontController.php on line 78
+[23-Jul-2011 22:14:02] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/library/DTech/FrontController.php on line 79
+[23-Jul-2011 22:14:02] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:14:04] PHP Warning:  parse_ini_file(/var/www/poll/application/language/.ini): failed to open stream: No such file or directory in /var/www/poll/library/DTech/FrontController.php on line 78
+[23-Jul-2011 22:14:04] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/library/DTech/FrontController.php on line 79
+[23-Jul-2011 22:14:04] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:14:26] PHP Warning:  parse_ini_file(/var/www/poll/application/language/.ini): failed to open stream: No such file or directory in /var/www/poll/library/DTech/FrontController.php on line 78
+[23-Jul-2011 22:14:26] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/library/DTech/FrontController.php on line 79
+[23-Jul-2011 22:14:26] PHP Fatal error:  Call to undefined method mysqli::escapeValue() in /var/www/poll/library/DTech/ModelAbstract.php on line 281
+[23-Jul-2011 22:14:42] PHP Warning:  parse_ini_file(/var/www/poll/application/language/.ini): failed to open stream: No such file or directory in /var/www/poll/library/DTech/FrontController.php on line 78
+[23-Jul-2011 22:14:42] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/library/DTech/FrontController.php on line 79
+[23-Jul-2011 22:14:42] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:14:47] PHP Warning:  parse_ini_file(/var/www/poll/application/language/.ini): failed to open stream: No such file or directory in /var/www/poll/library/DTech/FrontController.php on line 78
+[23-Jul-2011 22:14:47] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/library/DTech/FrontController.php on line 79
+[23-Jul-2011 22:14:47] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:15:32] PHP Warning:  parse_ini_file(/var/www/poll/application/language/.ini): failed to open stream: No such file or directory in /var/www/poll/library/DTech/FrontController.php on line 78
+[23-Jul-2011 22:15:32] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/library/DTech/FrontController.php on line 79
+[23-Jul-2011 22:15:32] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:15:35] PHP Warning:  parse_ini_file(/var/www/poll/application/language/.ini): failed to open stream: No such file or directory in /var/www/poll/library/DTech/FrontController.php on line 78
+[23-Jul-2011 22:15:35] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/library/DTech/FrontController.php on line 79
+[23-Jul-2011 22:15:35] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:15:39] PHP Warning:  parse_ini_file(/var/www/poll/application/language/.ini): failed to open stream: No such file or directory in /var/www/poll/library/DTech/FrontController.php on line 78
+[23-Jul-2011 22:15:39] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/library/DTech/FrontController.php on line 79
+[23-Jul-2011 22:15:39] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:16:08] PHP Warning:  parse_ini_file(/var/www/poll/application/language/.ini): failed to open stream: No such file or directory in /var/www/poll/library/DTech/FrontController.php on line 78
+[23-Jul-2011 22:16:08] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/library/DTech/FrontController.php on line 79
+[23-Jul-2011 22:16:08] PHP Warning:  mysqli::real_escape_string(): invalid object or resource mysqli
+ in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:16:56] PHP Warning:  parse_ini_file(/var/www/poll/application/language/.ini): failed to open stream: No such file or directory in /var/www/poll/library/DTech/FrontController.php on line 78
+[23-Jul-2011 22:16:56] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/library/DTech/FrontController.php on line 79
+[23-Jul-2011 22:16:56] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:16:56] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:16:56] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:16:56] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:16:56] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:16:56] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:16:56] PHP Warning:  mysql_real_escape_string(): Access denied for user 'www-data'@'localhost' (using password: NO) in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:16:56] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:17:07] PHP Warning:  parse_ini_file(/var/www/poll/application/language/.ini): failed to open stream: No such file or directory in /var/www/poll/library/DTech/FrontController.php on line 78
+[23-Jul-2011 22:17:07] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/library/DTech/FrontController.php on line 79
+[23-Jul-2011 22:17:07] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:19:23] PHP Warning:  parse_ini_file(/var/www/poll/application/language/.ini): failed to open stream: No such file or directory in /var/www/poll/library/DTech/FrontController.php on line 78
+[23-Jul-2011 22:19:23] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/library/DTech/FrontController.php on line 79
+[23-Jul-2011 22:19:23] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:19:23] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:20:02] PHP Warning:  parse_ini_file(/var/www/poll/application/language/.ini): failed to open stream: No such file or directory in /var/www/poll/library/DTech/FrontController.php on line 78
+[23-Jul-2011 22:20:02] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/library/DTech/FrontController.php on line 79
+[23-Jul-2011 22:20:02] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:20:33] PHP Warning:  parse_ini_file(/var/www/poll/application/language/.ini): failed to open stream: No such file or directory in /var/www/poll/library/DTech/FrontController.php on line 78
+[23-Jul-2011 22:20:33] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/library/DTech/FrontController.php on line 79
+[23-Jul-2011 22:20:33] PHP Warning:  mysqli_real_escape_string(): invalid object or resource mysqli
+ in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:20:55] PHP Warning:  parse_ini_file(/var/www/poll/application/language/.ini): failed to open stream: No such file or directory in /var/www/poll/library/DTech/FrontController.php on line 78
+[23-Jul-2011 22:20:55] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/library/DTech/FrontController.php on line 79
+[23-Jul-2011 22:20:55] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:22:51] PHP Warning:  parse_ini_file(/var/www/poll/application/language/.ini): failed to open stream: No such file or directory in /var/www/poll/library/DTech/FrontController.php on line 78
+[23-Jul-2011 22:22:51] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/library/DTech/FrontController.php on line 79
+[23-Jul-2011 22:22:51] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:23:33] PHP Warning:  parse_ini_file(/var/www/poll/application/language/.ini): failed to open stream: No such file or directory in /var/www/poll/library/DTech/FrontController.php on line 78
+[23-Jul-2011 22:23:33] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/library/DTech/FrontController.php on line 79
+[23-Jul-2011 22:23:33] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:24:07] PHP Warning:  parse_ini_file(/var/www/poll/application/language/.ini): failed to open stream: No such file or directory in /var/www/poll/library/DTech/FrontController.php on line 78
+[23-Jul-2011 22:24:07] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/library/DTech/FrontController.php on line 79
+[23-Jul-2011 22:25:50] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:25:51] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:26:47] PHP Warning:  mysqli::real_escape_string(): invalid object or resource mysqli
+ in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:26:47] PHP Warning:  mysqli::real_escape_string(): invalid object or resource mysqli
+ in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:28:27] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:28:27] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:28:50] PHP Warning:  mysqli::real_escape_string(): invalid object or resource mysqli
+ in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:28:51] PHP Warning:  mysqli::real_escape_string(): invalid object or resource mysqli
+ in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:28:54] PHP Warning:  mysqli::real_escape_string(): invalid object or resource mysqli
+ in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:28:54] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/application/models/Poll.php on line 261
+[23-Jul-2011 22:28:54] PHP Warning:  mysqli::real_escape_string(): invalid object or resource mysqli
+ in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:29:47] PHP Warning:  mysqli::real_escape_string(): invalid object or resource mysqli
+ in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:29:47] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/application/models/Poll.php on line 261
+[23-Jul-2011 22:29:47] PHP Warning:  mysqli::real_escape_string(): invalid object or resource mysqli
+ in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:29:48] PHP Warning:  mysqli::real_escape_string(): invalid object or resource mysqli
+ in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:29:48] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/application/models/Poll.php on line 261
+[23-Jul-2011 22:29:48] PHP Warning:  mysqli::real_escape_string(): invalid object or resource mysqli
+ in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:29:50] PHP Warning:  mysqli::real_escape_string(): invalid object or resource mysqli
+ in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:29:50] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/application/models/Poll.php on line 261
+[23-Jul-2011 22:29:50] PHP Warning:  mysqli::real_escape_string(): invalid object or resource mysqli
+ in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:31:46] PHP Fatal error:  Call to undefined method Database::real_escape_string() in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:31:46] PHP Fatal error:  Call to undefined method Database::real_escape_string() in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:32:09] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:32:09] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:32:11] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:32:11] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:32:12] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:32:12] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:32:12] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:32:13] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:32:13] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:32:13] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:32:14] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:32:14] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:32:15] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:32:15] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:32:15] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:32:15] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:33:33] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:33:34] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:33:35] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:33:35] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:33:36] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:33:36] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:43:52] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:43:53] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:47:02] PHP Fatal error:  Call to a member function escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:47:02] PHP Fatal error:  Call to a member function escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:47:03] PHP Fatal error:  Call to a member function escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:47:03] PHP Fatal error:  Call to a member function escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:47:56] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/application/models/Poll.php on line 261
+[23-Jul-2011 22:49:32] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:49:32] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:49:48] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:49:48] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:49:54] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/application/models/Poll.php on line 261
+[23-Jul-2011 22:49:57] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/application/models/Poll.php on line 261
+[23-Jul-2011 22:49:59] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/application/models/Poll.php on line 261
+[23-Jul-2011 22:50:19] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:50:19] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:50:30] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:50:30] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:50:30] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:50:31] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 131
+[23-Jul-2011 22:51:41] PHP Fatal error:  Call to a member function escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:51:41] PHP Fatal error:  Call to a member function escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:51:43] PHP Fatal error:  Call to a member function escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:51:43] PHP Fatal error:  Call to a member function escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:52:42] PHP Fatal error:  Call to a member function escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:52:42] PHP Fatal error:  Call to a member function escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:53:15] PHP Fatal error:  Call to a member function escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:53:16] PHP Fatal error:  Call to a member function escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:53:18] PHP Fatal error:  Call to a member function escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:53:18] PHP Fatal error:  Call to a member function escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:53:19] PHP Fatal error:  Call to a member function escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:53:19] PHP Fatal error:  Call to a member function escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:53:20] PHP Fatal error:  Call to a member function escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:53:20] PHP Fatal error:  Call to a member function escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:53:21] PHP Fatal error:  Call to a member function escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:53:21] PHP Fatal error:  Call to a member function escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 130
+[23-Jul-2011 22:53:38] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/application/models/Poll.php on line 261
+[23-Jul-2011 22:55:56] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/application/models/Poll.php on line 261
+[23-Jul-2011 22:55:57] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/application/models/Poll.php on line 261
+[23-Jul-2011 22:55:58] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/application/models/Poll.php on line 261
+[23-Jul-2011 22:58:26] PHP Fatal error:  Call to a member function connect() on a non-object in /var/www/poll/library/DTech/Database.php on line 74
+[23-Jul-2011 22:59:38] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/application/models/Poll.php on line 261
+[24-Jul-2011 02:52:40] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/application/models/Poll.php on line 261
+[24-Jul-2011 02:52:41] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/application/models/Poll.php on line 261
+[24-Jul-2011 02:53:35] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/application/models/Poll.php on line 261
+[24-Jul-2011 02:53:37] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/application/models/Poll.php on line 261
+[24-Jul-2011 02:54:06] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/application/models/Poll.php on line 261
+[24-Jul-2011 03:01:07] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/application/models/Poll.php on line 261
+[24-Jul-2011 03:01:49] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/application/models/Poll.php on line 261
+[24-Jul-2011 03:01:52] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/application/models/Poll.php on line 261
+[24-Jul-2011 03:02:18] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/application/models/Poll.php on line 261
+[24-Jul-2011 03:14:00] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/application/models/Poll.php on line 262
+[24-Jul-2011 03:37:18] PHP Warning:  require_once(RememberitController.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:37:18] PHP Fatal error:  require_once(): Failed opening required 'RememberitController.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:37:19] PHP Warning:  require_once(RememberitController.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:37:19] PHP Fatal error:  require_once(): Failed opening required 'RememberitController.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:37:20] PHP Warning:  require_once(RememberitController.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:37:20] PHP Fatal error:  require_once(): Failed opening required 'RememberitController.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:37:21] PHP Warning:  require_once(RememberitController.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:37:21] PHP Fatal error:  require_once(): Failed opening required 'RememberitController.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:37:22] PHP Warning:  require_once(RememberitController.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:37:22] PHP Fatal error:  require_once(): Failed opening required 'RememberitController.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:38:13] PHP Warning:  require_once(RememberitController.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:38:13] PHP Fatal error:  require_once(): Failed opening required 'RememberitController.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:38:15] PHP Warning:  require_once(RememberitController.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:38:15] PHP Fatal error:  require_once(): Failed opening required 'RememberitController.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:38:16] PHP Warning:  require_once(RememberitController.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:38:16] PHP Fatal error:  require_once(): Failed opening required 'RememberitController.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:39:02] PHP Warning:  require_once(RememberitController.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:39:02] PHP Fatal error:  require_once(): Failed opening required 'RememberitController.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:39:38] PHP Warning:  require_once(rememberitcontroller.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:39:38] PHP Fatal error:  require_once(): Failed opening required 'rememberitcontroller.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:40:42] PHP Warning:  require_once(RememberitController.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:40:42] PHP Fatal error:  require_once(): Failed opening required 'RememberitController.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:40:59] PHP Warning:  require_once(RememberitController.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:40:59] PHP Fatal error:  require_once(): Failed opening required 'RememberitController.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:41:03] PHP Warning:  require_once(RememberitController.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:41:03] PHP Fatal error:  require_once(): Failed opening required 'RememberitController.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:41:07] PHP Warning:  require_once(RememberitController.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:41:07] PHP Fatal error:  require_once(): Failed opening required 'RememberitController.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:41:26] PHP Warning:  require_once(RememberitController.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:41:26] PHP Fatal error:  require_once(): Failed opening required 'RememberitController.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:41:41] PHP Warning:  require_once(rememberitController.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:41:41] PHP Fatal error:  require_once(): Failed opening required 'rememberitController.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:41:42] PHP Warning:  require_once(rememberitController.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:41:42] PHP Fatal error:  require_once(): Failed opening required 'rememberitController.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:41:43] PHP Warning:  require_once(rememberitController.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:41:43] PHP Fatal error:  require_once(): Failed opening required 'rememberitController.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 03:42:26] PHP Fatal error:  Call to a member function dispatch() on a non-object in /var/www/poll/library/DTech/Application.php on line 145
+[24-Jul-2011 03:42:26] PHP Fatal error:  Call to a member function dispatch() on a non-object in /var/www/poll/library/DTech/Application.php on line 145
+[24-Jul-2011 03:42:44] PHP Fatal error:  Call to a member function dispatch() on a non-object in /var/www/poll/library/DTech/Application.php on line 145
+[24-Jul-2011 03:42:45] PHP Fatal error:  Call to a member function dispatch() on a non-object in /var/www/poll/library/DTech/Application.php on line 145
+[24-Jul-2011 03:44:01] PHP Warning:  include_once(/var/www/poll/application/views/rememberit/index.phtml): failed to open stream: No such file or directory in /var/www/poll/library/DTech/FrontController.php on line 64
+[24-Jul-2011 03:44:01] PHP Warning:  include_once(): Failed opening '/var/www/poll/application/views/rememberit/index.phtml' for inclusion (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/library/DTech/FrontController.php on line 64
+[24-Jul-2011 12:36:55] PHP Warning:  require_once(rememberit.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 12:36:55] PHP Fatal error:  require_once(): Failed opening required 'rememberit.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 12:36:57] PHP Warning:  require_once(rememberit.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 12:36:57] PHP Fatal error:  require_once(): Failed opening required 'rememberit.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 12:36:58] PHP Warning:  require_once(rememberit.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 12:36:58] PHP Fatal error:  require_once(): Failed opening required 'rememberit.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 12:36:58] PHP Warning:  require_once(rememberit.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 12:36:58] PHP Fatal error:  require_once(): Failed opening required 'rememberit.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 12:36:58] PHP Warning:  require_once(rememberit.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 12:36:58] PHP Fatal error:  require_once(): Failed opening required 'rememberit.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 12:37:38] PHP Warning:  require_once(rememberit.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 12:37:38] PHP Fatal error:  require_once(): Failed opening required 'rememberit.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 12:37:39] PHP Warning:  require_once(rememberit.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 12:37:39] PHP Fatal error:  require_once(): Failed opening required 'rememberit.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 12:37:40] PHP Warning:  require_once(rememberit.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 12:37:40] PHP Fatal error:  require_once(): Failed opening required 'rememberit.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 12:37:43] PHP Warning:  require_once(rememberit.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 12:37:43] PHP Fatal error:  require_once(): Failed opening required 'rememberit.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 12:38:37] PHP Warning:  require_once(rememberit.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 12:38:37] PHP Fatal error:  require_once(): Failed opening required 'rememberit.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 12:38:41] PHP Warning:  require_once(rememberit.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 12:38:41] PHP Fatal error:  require_once(): Failed opening required 'rememberit.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 12:38:45] PHP Warning:  require_once(rememberit.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 12:38:45] PHP Fatal error:  require_once(): Failed opening required 'rememberit.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 12:39:33] PHP Warning:  require_once(rememberit.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 12:39:33] PHP Fatal error:  require_once(): Failed opening required 'rememberit.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 12:39:34] PHP Warning:  require_once(rememberit.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 12:39:34] PHP Fatal error:  require_once(): Failed opening required 'rememberit.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 12:39:35] PHP Warning:  require_once(rememberit.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 12:39:35] PHP Fatal error:  require_once(): Failed opening required 'rememberit.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 12:45:33] PHP Warning:  require_once(rememberit.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 12:45:33] PHP Fatal error:  require_once(): Failed opening required 'rememberit.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 12:47:46] PHP Warning:  require_once(RememberitController.php): failed to open stream: No such file or directory in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 12:47:46] PHP Fatal error:  require_once(): Failed opening required 'RememberitController.php' (include_path='.:/usr/share/php:/usr/share/pear:/var/www/poll/application:/var/www/poll/application/models:/var/www/poll/application/controllers:/var/www/poll/library/DTech') in /var/www/poll/application/helpers/functions.php on line 13
+[24-Jul-2011 16:02:38] PHP Warning:  Missing argument 1 for File::__construct(), called in /var/www/poll/application/views/index/test.phtml on line 4 and defined in /var/www/poll/library/DTech/File.php on line 7
+[24-Jul-2011 16:22:06] PHP Warning:  filesize(): stat failed for /var/www/poll/application/../logs/erorrs.txt in /var/www/poll/library/DTech/File.php on line 65
+[24-Jul-2011 16:22:06] PHP Warning:  filetype(): Lstat failed for /var/www/poll/application/../logs/erorrs.txt in /var/www/poll/library/DTech/File.php on line 60
+[24-Jul-2011 16:22:49] PHP Warning:  filesize(): stat failed for /var/www/poll/application/../logs/erorrs.txt in /var/www/poll/application/views/index/test.phtml on line 3
+[24-Jul-2011 17:59:59] PHP Warning:  func_get_args():  Called from the global scope - no function context in /var/www/poll/application/views/index/test.phtml on line 3
+[24-Jul-2011 21:45:25] PHP Warning:  filesize(): stat failed for errors.txt in /var/www/poll/library/DTech/File.php on line 69
+[24-Jul-2011 21:45:25] PHP Warning:  filesize(): stat failed for e.txt in /var/www/poll/library/DTech/File.php on line 69
+[24-Jul-2011 23:45:13] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /var/www/poll/library/DTech/Database.php on line 228
+[25-Jul-2011 04:37:07] PHP Warning:  filetype(): Lstat failed for /var/www/poll/application../logs/errors/txt in /var/www/poll/library/DTech/File.php on line 242
+[25-Jul-2011 04:37:07] PHP Warning:  filesize(): stat failed for /var/www/poll/application../logs/errors/txt in /var/www/poll/library/DTech/File.php on line 252
+[25-Jul-2011 04:37:07] PHP Warning:  fileatime(): stat failed for /var/www/poll/application../logs/errors/txt in /var/www/poll/library/DTech/File.php on line 204
+[25-Jul-2011 04:37:07] PHP Warning:  filectime(): stat failed for /var/www/poll/application../logs/errors/txt in /var/www/poll/library/DTech/File.php on line 213
+[25-Jul-2011 04:37:07] PHP Warning:  filemtime(): stat failed for /var/www/poll/application../logs/errors/txt in /var/www/poll/library/DTech/File.php on line 222
+[25-Jul-2011 04:37:34] PHP Warning:  filetype(): Lstat failed for /var/www/poll/application/../logs/errors/txt in /var/www/poll/library/DTech/File.php on line 242
+[25-Jul-2011 04:37:34] PHP Warning:  filesize(): stat failed for /var/www/poll/application/../logs/errors/txt in /var/www/poll/library/DTech/File.php on line 252
+[25-Jul-2011 04:37:34] PHP Warning:  fileatime(): stat failed for /var/www/poll/application/../logs/errors/txt in /var/www/poll/library/DTech/File.php on line 204
+[25-Jul-2011 04:37:34] PHP Warning:  filectime(): stat failed for /var/www/poll/application/../logs/errors/txt in /var/www/poll/library/DTech/File.php on line 213
+[25-Jul-2011 04:37:34] PHP Warning:  filemtime(): stat failed for /var/www/poll/application/../logs/errors/txt in /var/www/poll/library/DTech/File.php on line 222
+[25-Jul-2011 04:43:14] PHP Warning:  posix_getpwuid() expects parameter 1 to be long, string given in /var/www/poll/application/views/index/test.phtml on line 6
+[25-Jul-2011 04:44:51] PHP Warning:  filetype(): Lstat failed for /var/www/poll/application/../pubilc/images/loading.gif in /var/www/poll/library/DTech/File.php on line 242
+[25-Jul-2011 04:44:51] PHP Warning:  filesize(): stat failed for /var/www/poll/application/../pubilc/images/loading.gif in /var/www/poll/library/DTech/File.php on line 252
+[25-Jul-2011 04:44:51] PHP Warning:  fileatime(): stat failed for /var/www/poll/application/../pubilc/images/loading.gif in /var/www/poll/library/DTech/File.php on line 204
+[25-Jul-2011 04:44:51] PHP Warning:  filectime(): stat failed for /var/www/poll/application/../pubilc/images/loading.gif in /var/www/poll/library/DTech/File.php on line 213
+[25-Jul-2011 04:44:51] PHP Warning:  filemtime(): stat failed for /var/www/poll/application/../pubilc/images/loading.gif in /var/www/poll/library/DTech/File.php on line 222
+[25-Jul-2011 04:44:51] PHP Warning:  mime_content_type(): File or path not found '/var/www/poll/application/../pubilc/images/loading.gif' in /var/www/poll/application/views/index/test.phtml on line 5
+[25-Jul-2011 04:44:51] PHP Warning:  fileowner(): stat failed for /var/www/poll/application/../pubilc/images/loading.gif in /var/www/poll/application/views/index/test.phtml on line 6
+[25-Jul-2011 04:45:58] PHP Warning:  mime_content_type(): Can only process string or stream arguments in /var/www/poll/application/views/index/test.phtml on line 5
+[25-Jul-2011 04:46:55] PHP Warning:  mime_content_type(): Can only process string or stream arguments in /var/www/poll/application/views/index/test.phtml on line 5
+[25-Jul-2011 04:47:08] PHP Warning:  filetype(): Lstat failed for /var/www/poll/application/..//pubilc/images/loading.gif in /var/www/poll/library/DTech/File.php on line 242
+[25-Jul-2011 04:47:08] PHP Warning:  filesize(): stat failed for /var/www/poll/application/..//pubilc/images/loading.gif in /var/www/poll/library/DTech/File.php on line 252
+[25-Jul-2011 04:47:08] PHP Warning:  fileatime(): stat failed for /var/www/poll/application/..//pubilc/images/loading.gif in /var/www/poll/library/DTech/File.php on line 204
+[25-Jul-2011 04:47:08] PHP Warning:  filectime(): stat failed for /var/www/poll/application/..//pubilc/images/loading.gif in /var/www/poll/library/DTech/File.php on line 213
+[25-Jul-2011 04:47:08] PHP Warning:  filemtime(): stat failed for /var/www/poll/application/..//pubilc/images/loading.gif in /var/www/poll/library/DTech/File.php on line 222
+[25-Jul-2011 04:47:08] PHP Warning:  mime_content_type(): File or path not found '/var/www/poll/application/..//pubilc/images/loading.gif' in /var/www/poll/application/views/index/test.phtml on line 5
+[25-Jul-2011 04:47:08] PHP Warning:  fileowner(): stat failed for /var/www/poll/application/..//pubilc/images/loading.gif in /var/www/poll/application/views/index/test.phtml on line 6
+[25-Jul-2011 04:47:21] PHP Warning:  filetype(): Lstat failed for /var/www/poll/application/../pubilc/images/loading.gif in /var/www/poll/library/DTech/File.php on line 242
+[25-Jul-2011 04:47:21] PHP Warning:  filesize(): stat failed for /var/www/poll/application/../pubilc/images/loading.gif in /var/www/poll/library/DTech/File.php on line 252
+[25-Jul-2011 04:47:21] PHP Warning:  fileatime(): stat failed for /var/www/poll/application/../pubilc/images/loading.gif in /var/www/poll/library/DTech/File.php on line 204
+[25-Jul-2011 04:47:21] PHP Warning:  filectime(): stat failed for /var/www/poll/application/../pubilc/images/loading.gif in /var/www/poll/library/DTech/File.php on line 213
+[25-Jul-2011 04:47:21] PHP Warning:  filemtime(): stat failed for /var/www/poll/application/../pubilc/images/loading.gif in /var/www/poll/library/DTech/File.php on line 222
+[25-Jul-2011 04:47:21] PHP Warning:  mime_content_type(): File or path not found '/var/www/poll/application/../pubilc/images/loading.gif' in /var/www/poll/application/views/index/test.phtml on line 5
+[25-Jul-2011 04:47:21] PHP Warning:  fileowner(): stat failed for /var/www/poll/application/../pubilc/images/loading.gif in /var/www/poll/application/views/index/test.phtml on line 6
+[25-Jul-2011 19:21:07] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /var/www/poll/application/views/index/test.phtml on line 4
+[31-Jul-2011 22:17:00] PHP Warning:  stripos() expects at least 2 parameters, 1 given in /var/www/poll/application/views/index/test.phtml on line 3
+[06-Aug-2011 12:51:34] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 117
+[06-Aug-2011 16:27:59] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 108
+[06-Aug-2011 16:27:59] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 108
+[06-Aug-2011 16:28:52] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 108
+[06-Aug-2011 16:29:29] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 108
+[06-Aug-2011 16:30:09] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 108
+[06-Aug-2011 16:30:10] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 108
+[06-Aug-2011 16:30:37] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 108
+[06-Aug-2011 16:30:54] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 108
+[06-Aug-2011 16:31:03] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 108
+[06-Aug-2011 16:31:48] PHP Fatal error:  Call to a member function fetchArray() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 110
+[06-Aug-2011 16:38:11] PHP Fatal error:  Call to a member function fetchArray() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 110
+[06-Aug-2011 16:40:45] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 107
+[06-Aug-2011 16:41:03] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 107
+[06-Aug-2011 16:42:04] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 108
+[06-Aug-2011 16:42:06] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 108
+[06-Aug-2011 16:42:09] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 108
+[06-Aug-2011 16:42:41] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 108
+[06-Aug-2011 16:43:06] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 108
+[06-Aug-2011 16:44:46] PHP Fatal error:  Call to a member function fetchArray() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 110
+[06-Aug-2011 16:46:26] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 107
+[06-Aug-2011 16:50:16] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 107
+[06-Aug-2011 16:50:25] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 107
+[06-Aug-2011 16:50:27] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 107
+[06-Aug-2011 16:50:29] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 107
+[06-Aug-2011 16:50:51] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 107
+[06-Aug-2011 16:51:13] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 107
+[06-Aug-2011 16:51:14] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 107
+[06-Aug-2011 16:52:16] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 112
+[06-Aug-2011 16:58:32] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 107
+[06-Aug-2011 16:59:11] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 107
+[06-Aug-2011 17:00:43] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 107
+[06-Aug-2011 17:01:07] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 107
+[06-Aug-2011 17:01:22] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 107
+[06-Aug-2011 17:01:41] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 107
+[06-Aug-2011 17:03:49] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 108
+[06-Aug-2011 17:04:27] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 107
+[06-Aug-2011 17:04:48] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 108
+[06-Aug-2011 17:05:16] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 107
+[06-Aug-2011 17:05:25] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 107
+[06-Aug-2011 17:05:39] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 108
+[06-Aug-2011 17:08:36] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 106
+[06-Aug-2011 17:10:10] PHP Fatal error:  Call to a member function query() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 110
+[07-Aug-2011 00:19:52] PHP Fatal error:  Call to undefined method Database::openConnection() in /var/www/poll/library/DTech/Database.php on line 58
+[07-Aug-2011 00:19:53] PHP Fatal error:  Call to undefined method Database::openConnection() in /var/www/poll/library/DTech/Database.php on line 58
+[07-Aug-2011 00:19:53] PHP Fatal error:  Call to undefined method Database::openConnection() in /var/www/poll/library/DTech/Database.php on line 58
+[07-Aug-2011 00:19:53] PHP Fatal error:  Call to undefined method Database::openConnection() in /var/www/poll/library/DTech/Database.php on line 58
+[07-Aug-2011 00:19:53] PHP Fatal error:  Call to undefined method Database::openConnection() in /var/www/poll/library/DTech/Database.php on line 58
+[07-Aug-2011 00:58:51] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /var/www/poll/library/DTech/Database.php on line 59
+[07-Aug-2011 00:58:51] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /var/www/poll/library/DTech/Database.php on line 59
+[19-Aug-2011 22:49:29] PHP Fatal error:  Call to a member function escapeValue() on a non-object in /var/www/poll/library/DTech/ModelAbstract.php on line 267
+[19-Aug-2011 23:00:40] PHP Catchable fatal error:  Object of class Database could not be converted to string in /var/www/poll/library/DTech/ModelAbstract.php on line 82
+[19-Aug-2011 23:25:29] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 158
+[19-Aug-2011 23:25:30] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 158
+[19-Aug-2011 23:25:31] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 158
+[19-Aug-2011 23:25:31] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 158
+[19-Aug-2011 23:25:31] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 158
+[19-Aug-2011 23:25:31] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 158
+[19-Aug-2011 23:25:34] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 158
+[19-Aug-2011 23:25:35] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 158
+[19-Aug-2011 23:25:35] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 158
+[19-Aug-2011 23:25:35] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 158
+[19-Aug-2011 23:25:36] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /var/www/poll/library/DTech/Database.php on line 158
+[20-Aug-2011 05:45:32] PHP Fatal error:  Access to undeclared static property: Session::$_database in /var/www/poll/library/DTech/Session.php on line 29
+[20-Aug-2011 05:45:32] PHP Fatal error:  Access to undeclared static property: Session::$_database in /var/www/poll/library/DTech/Session.php on line 29
+[20-Aug-2011 05:45:32] PHP Fatal error:  Access to undeclared static property: Session::$_database in /var/www/poll/library/DTech/Session.php on line 29
+[20-Aug-2011 05:45:32] PHP Fatal error:  Access to undeclared static property: Session::$_database in /var/www/poll/library/DTech/Session.php on line 29
+[20-Aug-2011 05:45:32] PHP Fatal error:  Access to undeclared static property: Session::$_database in /var/www/poll/library/DTech/Session.php on line 29
+[20-Aug-2011 05:45:32] PHP Fatal error:  Access to undeclared static property: Session::$_database in /var/www/poll/library/DTech/Session.php on line 29
+[20-Aug-2011 05:46:55] PHP Parse error:  syntax error, unexpected ';', expecting T_STRING or T_VARIABLE or '{' or '$' in /var/www/poll/library/DTech/Session.php on line 29
+[20-Aug-2011 05:46:56] PHP Parse error:  syntax error, unexpected ';', expecting T_STRING or T_VARIABLE or '{' or '$' in /var/www/poll/library/DTech/Session.php on line 29
+[20-Aug-2011 05:46:56] PHP Parse error:  syntax error, unexpected ';', expecting T_STRING or T_VARIABLE or '{' or '$' in /var/www/poll/library/DTech/Session.php on line 29
+[20-Aug-2011 05:46:56] PHP Parse error:  syntax error, unexpected ';', expecting T_STRING or T_VARIABLE or '{' or '$' in /var/www/poll/library/DTech/Session.php on line 29
+[20-Aug-2011 05:49:02] PHP Fatal error:  Call to undefined method Database::server_info() in /var/www/poll/library/DTech/Session.php on line 29
+[20-Aug-2011 05:49:03] PHP Fatal error:  Call to undefined method Database::server_info() in /var/www/poll/library/DTech/Session.php on line 29
+[20-Aug-2011 05:49:03] PHP Fatal error:  Call to undefined method Database::server_info() in /var/www/poll/library/DTech/Session.php on line 29
+[20-Aug-2011 05:49:03] PHP Fatal error:  Call to undefined method Database::server_info() in /var/www/poll/library/DTech/Session.php on line 29
+[25-Sep-2011 02:26:52] PHP Warning:  parse_ini_file(/var/www/poll/application/language/.ini): failed to open stream: No such file or directory in /var/www/poll/library/DTech/FrontController.php on line 78
+[25-Sep-2011 02:26:52] PHP Warning:  Invalid argument supplied for foreach() in /var/www/poll/library/DTech/FrontController.php on line 79

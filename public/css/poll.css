@@ -1,0 +1,120 @@
+@CHARSET "UTF-8";
+.poll {
+	background-color:#F4F4F4;
+	margin: 20px 0 20px 20px;
+	padding:10px;
+	width:265px;
+	-moz-border-radius:5px;
+    -webkit-border-radius:5px;
+    border-radius:5px;
+	border:solid 1px #999;
+	box-shadow:0px 1px 3px #333;
+}
+.answers {
+	background-color:#FFF;
+	padding:5px;
+	-moz-border-radius:5px;
+    -webkit-border-radius:5px;
+    border-radius:5px;
+	border:solid 1px #999;
+}
+.virticalAnswers {
+	background-color:#FFF;
+	padding:5px;
+	-moz-border-radius:5px;
+    -webkit-border-radius:5px;
+    border-radius:5px;
+	border:solid 1px #999;
+	height:285px;
+	position: absolute;
+	bottom: 10px;
+	width:538px;
+}
+.vote { 
+	height:10px; 
+	margin:5px 0 5px 0;
+	font-family: Arial;
+	color:white;
+	font-size:0.7em;
+	padding:2px 1px 6px 0;
+	font-weight: bold;
+	background: #d81b21;
+    background: -webkit-gradient(linear, left top, left bottom, from(#ff8080), to(#aa1317));
+    background: -moz-linear-gradient(top,  #ff8080,  #aa1317);
+    pie-background: linear-gradient(#ff8080, #aa1317);
+    border:1px red solid;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+    border-radius:3px;
+	text-align:right;
+}
+#statistics {
+	overflow:hidden;
+	background-color:#E4E4E4;
+	position:relative;
+	width : 550px;
+	height : 300px;
+	background-color:#F4F4F4;
+	margin: 20px 0 20px 20px;
+	padding:10px;
+	-moz-border-radius:5px;
+    -webkit-border-radius:5px;
+    border-radius:5px;
+	border:solid 1px #999;
+	box-shadow:0px 1px 3px #333;
+}
+.verticalVote {
+	width:25px;
+	background-color:red;
+	float:left;
+	position: absolute;
+	bottom:0px;
+	background: #d81b21;
+    background: -webkit-gradient(linear, left top, right top, from(#ff8080), to(#aa1317));
+    background: -moz-linear-gradient(left,  #ff8080,  #aa1317);
+    pie-background: linear-gradient(#ff8080, #aa1317);
+    border:1px red solid;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+    border-radius:3px;
+    font-family: Arial;
+	color:white;
+	font-size:0.7em;
+	padding:5px 0 0 2px;
+	font-weight:bold;
+}
+#pollDetails {
+	position: absolute;
+	right:15px;
+	top:15px;
+	padding:10px;
+	width:250px;
+	background-color:#E6E6E6;
+	border:solid 1px #999;
+	display:none;
+}
+.answersList {
+	list-style:square;
+	margin-left:15px;
+}
+.answersList li {
+	font-family: Arial;
+	color:#333;
+	font-size:0.75em;
+	margin-bottom:3px;
+}
+#viewSelection {
+	margin:20px 0 0 20px;
+}
+#viewSelection label {
+	font-family: Arial;
+	color:#333;
+	font-size:0.85em;
+	margin-right:10px;
+	font-weight:bold;
+}
+.hr {
+	height:1px;
+	border-bottom: dashed 1px #999;
+	margin-bottom:3px;
+}
